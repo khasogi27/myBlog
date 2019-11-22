@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2 {
+    color:white;
+}
+
+img {
+    transform: rotate;
+    width: 200px;
+    height: 200px;
+}
+
+@keyframes loading {
+ 0% {transform: rotate(deg);}
+100% {transform: rotate(360deg);}
+}
+
+.loading {
+animation: loading 7s linear infinite;
+}
+
+footer {
+    color: white;
+    padding: 50px;
+    text-align: center;
+}

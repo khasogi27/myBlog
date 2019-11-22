@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box {
+    width: 350px;
+    background: black;
+    color: white;
+    margin: 10px auto;
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.name {
+    background: white;
+	color: black;
+	font-size: 11pt;
+	width: 85%;
+	border-radius: 25px;
+    padding: 5px;
+    margin:10px;
+    border-color: orange;
+    text-align: center;
+}
+
+.name2 {
+    background: white;
+	color: black;
+	font-size: 11pt;
+	width: 30%;
+	border-radius: 25px;
+    padding: 5px;
+    margin:10px;
+    border-color: orange;
+}
+
+.submit {
+    background: orange;
+	color: white;
+	font-size: 11pt;
+	width: 30%;
+	border: none;
+	border-radius: 20px;
+    padding: 10px;
+    margin:10px;
+}
+
+footer {
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
