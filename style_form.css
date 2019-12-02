@@ -14,36 +14,36 @@ body {
 
 .name {
     background: white;
-	color: black;
-	font-size: 11pt;
-	width: 85%;
-	border-radius: 25px;
+    color: black;
+    font-size: 11pt;
+    width: 85%;
+    border-radius: 25px;
     padding: 5px;
-    margin:10px;
+    margin: 10px;
     border-color: orange;
     text-align: center;
 }
 
 .name2 {
     background: white;
-	color: black;
-	font-size: 11pt;
-	width: 30%;
-	border-radius: 25px;
+    color: black;
+    font-size: 11pt;
+    width: 30%;
+    border-radius: 25px;
     padding: 5px;
-    margin:10px;
+    margin: 10px;
     border-color: orange;
 }
 
 .submit {
     background: orange;
-	color: white;
-	font-size: 11pt;
-	width: 30%;
-	border: none;
-	border-radius: 20px;
+    color: white;
+    font-size: 11pt;
+    width: 30%;
+    border: none;
+    border-radius: 20px;
     padding: 10px;
-    margin:10px;
+    margin: 10px;
 }
 
 footer {

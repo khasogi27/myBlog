@@ -5,7 +5,7 @@ body {
 
 h1 {
     color: white;
-    font-size:40px;
+    font-size: 40px;
 }
 
 h2 {
@@ -25,12 +25,12 @@ pre {
 }
 
 a {
-    text-decoration:none;
-    text-align:center;
+    text-decoration: none;
+    text-align: center;
     background-color: orange;
     font-size: 20px;
     padding: 15px;
-    margin:10px;
+    margin: 10px;
     border-radius: 25px;
     color: white;
 }
@@ -40,7 +40,8 @@ a:hover {
 }
 
 table,
-th, td {
+th,
+td {
     color: white;
     padding: 20px;
     border-collapse: collapse;

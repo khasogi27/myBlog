@@ -3,8 +3,9 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-h1, h2 {
-    color:white;
+h1,
+h2 {
+    color: white;
 }
 
 img {
@@ -14,12 +15,17 @@ img {
 }
 
 @keyframes loading {
- 0% {transform: rotate(deg);}
-100% {transform: rotate(360deg);}
+    0% {
+        transform: rotate(deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 .loading {
-animation: loading 7s linear infinite;
+    animation: loading 7s linear infinite;
 }
 
 footer {
